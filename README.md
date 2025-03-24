@@ -63,4 +63,3 @@ Développeuse passionnée par l’innovation technologique, alliant expertise en
 📧 **Email** : herssimeriem@gmail.com  
 📍 **Localisation** : Gabès, Tunisie  
 
-![Développeuse](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhhb2ZwN245c2NvaHhyYnRndDBubTZ5bHB6a3h6ND
