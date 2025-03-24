@@ -1,7 +1,6 @@
 # Hersi Meriem  
 **`Développeuse Full-Stack | Spécialiste Business Intelligence`**  
-![Développeuse Hijabie](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VlYjQ5ZDQ0YjJjYjY4YzA3YjY1MjE3YzMzYjA0NDk4MTQ2ZTYyYjU0NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7btT1T9qpQZWhNl6/giphy.gif)
-
+![Développeuse Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBlYjY3MTM5YjA3NDg1N2QxZGIyMTY1YzYxZWMxYjhhNTg4ZjY0NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ZnWUif4kks6diXCTvq/giphy.gif)
 ---
 
 ## 👩💻 **Profil**  
