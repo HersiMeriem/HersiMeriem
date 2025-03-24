@@ -1,8 +1,8 @@
 # Hersi Meriem  
 **`Développeuse Full-Stack | Spécialiste Business Intelligence`**  
-![Développeuse Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBlYjY3MTM5YjA3NDg1N2QxZGIyMTY1YzYxZWMxYjhhNTg4ZjY0NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ZnWUif4kks6diXCTvq/giphy.gif)
+[![Développeuse Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBlYjY3MTM5YjA3NDg1N2QxZGIyMTY1YzYxZWMxYjhhNTg4ZjY0NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ZnWUif4kks6diXCTvq/giphy.gif)
 ---
-
+](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhhb2ZwN245c2NvaHhyYnRndDBubTZ5bHB6a3h6NDZvNXkxY2Z3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 ## 👩💻 **Profil**  
 Développeuse passionnée par l’innovation technologique, alliant expertise en **Business Intelligence** et développement web/mobile. Je conçois des solutions logicielles impactantes (IA, Angular, Flutter) pour répondre aux défis métiers. Rigoureuse et orientée résultats, je cherche à rejoindre une équipe dynamique où mes compétences techniques et ma créativité apporteront une valeur tangible.
 
