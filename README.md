@@ -33,6 +33,12 @@ Passionate **Full-Stack Developer** with expertise in **Business Intelligence** 
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
+### **AI/Data**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+
+---
+
 ## 🌟 **Compétences générales**  
 - **Flexibilité** : Adaptation rapide aux nouveaux outils et environnements  
 - **Responsabilité** : Respect des délais et qualité du code  
@@ -40,11 +46,7 @@ Passionate **Full-Stack Developer** with expertise in **Business Intelligence** 
 - **Créativité** : Solutions innovantes pour des défis complexes  
 - **Travail d'équipe** : Collaboration agile avec designers et data scientists  
 
-### **AI/Data**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 
----
 
 ## 🌟 **Featured Projects**  
 
