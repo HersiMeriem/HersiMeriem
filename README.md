@@ -1,8 +1,5 @@
 # 👋 Hello, I'm **Hersi Meriem**  
-**`Full-Stack Developer | Business Intelligence Specialist`**  
-[![Développeuse Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNmY2U2NTAxN2YxM2U3ZWE2Y2E0M2FkMDE5YjA0N2YzYzA5YjU5ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ZnWUif4kks6diXCTvq/giphy.gif)](https://giphy.com/gifs/coding-developer-hijabi-ZnWUif4kks6diXCTvq)
-
----
+**`Full-Stack Developer | Business Intelligence Specialist`** 
 
 ## 🚀 **About Me**  
 Passionate **Full-Stack Developer** with expertise in **Business Intelligence** and AI-driven solutions. I build impactful tools like inventory systems and eco-tourism platforms to solve real-world problems. Always coding, always learning!  
@@ -46,11 +43,4 @@ Passionate **Full-Stack Developer** with expertise in **Business Intelligence** 
 ## 📫 **Let’s Connect!**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/hersi-meriem-4475bb265)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail)](mailto:herssimeriem@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-8A2BE2)](https://hersimeriem.com) *// Ajoutez votre portfolio ici*
 
----
-
-## 💡 **Fun Facts**  
-- 🎨 Designed 10+ UI/UX prototypes in Figma.  
-- 🌱 Currently learning **React** and **AWS**.  
-- ♟️ Built an unbeatable Tic-Tac-Toe AI ([ChallengeXO](lien_github)).  
