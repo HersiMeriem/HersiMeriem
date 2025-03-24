@@ -1,53 +1,65 @@
-# 👋 Hi, I’m **@HersiMeriem**
+# Hersi Meriem  
+**`Développeuse Full-Stack | Spécialiste Business Intelligence`**  
+![Développeuse Hijabie](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VlYjQ5ZDQ0YjJjYjY4YzA3YjY1MjE3YzMzYjA0NDk4MTQ2ZTYyYjU0NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7btT1T9qpQZWhNl6/giphy.gif)
 
 ---
 
-## 🌟 About Me
-I'm a passionate student specializing in **Business Intelligence** and web/mobile development. I love crafting innovative solutions that harness the power of **AI** and **Machine Learning**.
+## 👩💻 **Profil**  
+Développeuse passionnée par l’innovation technologique, alliant expertise en **Business Intelligence** et développement web/mobile. Je conçois des solutions logicielles impactantes (IA, Angular, Flutter) pour répondre aux défis métiers. Rigoureuse et orientée résultats, je cherche à rejoindre une équipe dynamique où mes compétences techniques et ma créativité apporteront une valeur tangible.
 
 ---
 
-## 🔍 Interests
-- **Web Development**: Building dynamic and responsive applications with **Angular**.
-- **Mobile Development**: Creating engaging mobile experiences using **Flutter**.
-- **Data Analysis**: Exploring insights through data and machine learning techniques.
+## 🚀 **Expériences professionnelles**  
+
+### **Développeuse Full-Stack | Projet de fin d’études**  
+*Smart Ways Innovation, Sfax (2023 - Présent)*  
+- Conception d’une solution logistique **QR codes + Machine Learning** pour optimiser la traçabilité des stocks (-25% d’erreurs).  
+- Développement d’une application web (**Angular**) et mobile (**Flutter**) avec intégration de modèles prédictifs.  
+- Collaboration avec des équipes cross-fonctionnelles (designers, data scientists).  
+
+### **Stagiaire en Développement Web**  
+*Magasin Général, Gabès (Juillet 2023 - Août 2023)*  
+- Optimisation de processus logistiques via une plateforme interne (**Node.js, Firebase**).  
+- Analyse des données de distribution pour réduire les délais de 15%.  
 
 ---
 
-## 📚 Currently Learning
-- Advanced **Angular** features for building robust applications.
-- **Node.js** for backend development to enhance my full-stack capabilities.
-- Best practices in **UI/UX design** to improve user engagement.
+## 💡 **Projets clés**  
+
+| Projet           | Technologies       | Impact                          |  
+|------------------|--------------------|---------------------------------|  
+| **SmartStock**   | Angular, Firebase  | Réduction des erreurs de stock de 30% |  
+| **WeAreGabes**   | Flutter, Figma     | +40% de visibilité touristique à Gabès |  
+| **TaskFlow**     | Node.js, MySQL     | Gestion de tâches en temps réel pour 500+ utilisateurs |  
 
 ---
 
-## 🤝 Collaboration
-I’m looking to collaborate on:
-- Creative web and mobile projects.
-- Open-source initiatives that focus on enhancing user experiences.
-- Business Intelligence applications that solve real-world problems.
+## 🎓 **Formations**  
+- **Licence en Informatique de Gestion | Spécialité Business Intelligence**  
+  *2022 - 2025 | ISIMA & FSEG Mahdia (Tunisie)*  
+- **Baccalauréat en Économie et Gestion**  
+  *2021 - 2022 | Lycée Mixte Mareth (Gabès)*  
 
 ---
 
-## 📫 How to Reach Me
-Feel free to connect with me:
-- **Email**: [herssimeriem@gmail.com](mailto:herssimeriem@gmail.com)
-- **LinkedIn**: [@HersiMeriem](https://www.linkedin.com/in/hersi-meriem-4475bb265)
-- **GitHub**: [HersiMeriem](https://github.com/HersiMeriem)
+## 🛠️ **Compétences techniques**  
+- **Frontend** : Angular, Flutter, HTML/CSS, Bootstrap  
+- **Backend** : Node.js, Firebase, Python  
+- **IA/Data** : Machine Learning (TensorFlow, scikit-learn)  
+- **Outils** : VS Code, Figma, Git, Android Studio  
+- **Soft Skills** : Gestion de projet agile, Résolution de problèmes  
 
 ---
 
-## 😄 Pronouns
-She/Her
+## 🌍 **Langues**  
+- **Arabe** (Langue maternelle)  
+- **Français** (Courant)  
+- **Anglais** (Intermédiaire)  
 
 ---
 
-## ⚡ Fun Fact
-I enjoy exploring new cultures through travel and I'm always seeking new experiences to enrich my perspective on the world!
-
----
-
-<!---
-HersiMeriem/HersiMeriem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📍 **Coordonnées**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/hersi-meriem-4475bb265)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/HersiMeriem)  
+📧 **Email** : herssimeriem@gmail.com  
+📍 **Localisation** : Gabès, Tunisie  
