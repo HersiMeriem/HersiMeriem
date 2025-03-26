@@ -1,70 +1,74 @@
 # 👋 Hello, I'm **Hersi Meriem**  
-**`Full-Stack Developer | Business Intelligence Specialist`** 
+**`Full-Stack Developer | Business Intelligence Architect`** 
+
+[![Visitors](https://komarev.com/ghpvc/?username=HersiMeriem&color=dc143c&label=PROFILE+VIEWS)](https://github.com/HersiMeriem)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2CA5E0?logo=google-chrome)](https://your-portfolio-link.com)
+[![Blog](https://img.shields.io/badge/✍️_Blog-FF5722?logo=medium)](https://your-blog-link.com)
 
 ## 🚀 **About Me**  
-Passionate **Full-Stack Developer** with expertise in **Business Intelligence** and AI-driven solutions. I build impactful tools like inventory systems and eco-tourism platforms to solve real-world problems. Always coding, always learning!  
+Passionate polyglot developer with 3+ years of experience crafting full-stack solutions and BI systems. Specialized in turning complex data into actionable insights through:
+
+- 📊 **Data Visualization**: Power BI/Tableau dashboards
+- 🤖 **AI Integration**: TensorFlow-powered predictive models
+- 🚀 **Scalable Architecture**: Microservices & cloud-native apps
+- 📱 **Mobile-First**: Flutter cross-platform experiences
+
+*"Transforming coffee into clean code since 2020"* ☕️
 
 ---
 
-## 🛠️ **Compétences techniques**  
+## 🛠 **Tech Stack**
 
-### **Front-End**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+### **Full-Stack Development**
+| Front-End              | Back-End               | Databases            |
+|------------------------|------------------------|----------------------|
+| ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
 
-### **Back-End**  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+### **Business Intelligence**
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+![Pentaho](https://img.shields.io/badge/-Pentaho-0078D4?logo=pentaho&logoColor=white)
 
-### **Langages**  
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+### **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-### **Outils**  
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?logo=android-studio&logoColor=white)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-
-### **AI/Data**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
 
 ---
 
-## 🌟 **Compétences générales**  
-- **Flexibilité** : Adaptation rapide aux nouveaux outils et environnements  
-- **Responsabilité** : Respect des délais et qualité du code  
-- **Passion** : Veille technologique constante et projets personnels  
-- **Créativité** : Solutions innovantes pour des défis complexes  
-- **Travail d'équipe** : Collaboration agile avec designers et data scientists  
+## 🏆 **Featured Projects**
 
+### 1. [Sales Analytics Dashboard](https://github.com/HersiMeriem/sales-dashboard) 
+**Power BI | Python | SQL**  
+Real-time sales monitoring system with predictive forecasting (ARIMA models)
 
+### 2. [E-Commerce Platform](https://github.com/HersiMeriem/ecommerce-app) 
+**Angular | Node.js | MongoDB**  
+Full-stack solution with JWT authentication and payment integration
 
-## 🌟 **Featured Projects**  
-
-| Project | Tech Stack | Impact |  
-|---------|------------|--------|  
-| **[SmartStock](lien_github)** | `Angular` `Firebase` `Python` | Reduced inventory errors by 30% |  
-| **[WeAreGabes](lien_github)** | `Flutter` `Figma` `Firebase` | Boosted tourism visibility by 40% |  
-| **[TaskFlow](lien_github)** | `Angular` `Node.js` `MySQL` | Real-time task management for 500+ users |  
+### 3. [Mobile Health Tracker](https://github.com/HersiMeriem/health-tracker) 
+**Flutter | Firebase | TensorFlow Lite**  
+AI-powered fitness app with workout recognition
 
 ---
 
-## 📈 **GitHub Stats**  
-[![Hersi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HersiMeriem&show_icons=true&theme=radical)](https://github.com/HersiMeriem)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HersiMeriem&layout=compact&theme=radical)](https://github.com/HersiMeriem)
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HersiMeriem&theme=radical)](https://git.io/streak-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HersiMeriem&layout=compact&theme=radical&hide=Jupyter%20Notebook)](https://github.com/HersiMeriem)
+
+</div>
 
 ---
 
-## 📫 **Let’s Connect!**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/hersi-meriem-4475bb265)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail)](mailto:herssimeriem@gmail.com)  
-
+## 🌟 **Professional DNA**
+```text
+Code Quality   ██████████░░ 90% 
+Problem Solving █████████░░░ 85%
+BI Development  ██████████░░ 92%
+Team Leadership ████████░░░░ 80%
+Continuous Learning ████████████ 100%
