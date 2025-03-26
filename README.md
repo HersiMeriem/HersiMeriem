@@ -1,74 +1,67 @@
 # 👋 Hello, I'm **Hersi Meriem**  
-**`Full-Stack Developer | Business Intelligence Architect`** 
+**` Full-Stack Developer | Business Intelligence Student`**  
 
-[![Visitors](https://komarev.com/ghpvc/?username=HersiMeriem&color=dc143c&label=PROFILE+VIEWS)](https://github.com/HersiMeriem)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2CA5E0?logo=google-chrome)](https://your-portfolio-link.com)
-[![Blog](https://img.shields.io/badge/✍️_Blog-FF5722?logo=medium)](https://your-blog-link.com)
+[![Visitors](https://komarev.com/ghpvc/?username=HersiMeriem&color=dc143c&label=PROFILE+VIEWS)](https://github.com/HersiMeriem)  
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2CA5E0?logo=google-chrome)](https://your-portfolio-link.com)  
+[![Blog](https://img.shields.io/badge/✍️_Blog-FF5722?logo=medium)](https://your-blog-link.com)  
+
+---
 
 ## 🚀 **About Me**  
-Passionate polyglot developer with 3+ years of experience crafting full-stack solutions and BI systems. Specialized in turning complex data into actionable insights through:
+As a beginner software developer and a student in IT management with a specialization in Business Intelligence, I design and develop dynamic web applications, from front-end user interfaces to back-end databases. My goal is to create seamless, efficient, and scalable solutions that enhance user experience and drive business success.  
 
-- 📊 **Data Visualization**: Power BI/Tableau dashboards
-- 🤖 **AI Integration**: TensorFlow-powered predictive models
-- 🚀 **Scalable Architecture**: Microservices & cloud-native apps
-- 📱 **Mobile-First**: Flutter cross-platform experiences
-
-*"Transforming coffee into clean code since 2020"* ☕️
+**What I’m exploring now** :  
+- 🎯 Building responsive UIs with **Angular** and **Flutter**  
+- 🔍 Transforming raw data into insights with **Python** and **SQL**  
+- 🌱 Learning cloud fundamentals (**Firebase**)  
 
 ---
 
-## 🛠 **Tech Stack**
+## 🛠 **Tech Stack**  
 
-### **Full-Stack Development**
-| Front-End              | Back-End               | Databases            |
-|------------------------|------------------------|----------------------|
-| ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
+### **Full-Stack Development**  
+| Front-End              | Back-End               | Databases            |  
+|------------------------|------------------------|----------------------|  
+| ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite) |  
 
-### **Business Intelligence**
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
-![Pentaho](https://img.shields.io/badge/-Pentaho-0078D4?logo=pentaho&logoColor=white)
-
-### **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+### **Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)  
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart)  
 
 ---
 
-## 🏆 **Featured Projects**
+## 🌱 **Featured Projects**  
 
-### 1. [Sales Analytics Dashboard](https://github.com/HersiMeriem/sales-dashboard) 
-**Power BI | Python | SQL**  
-Real-time sales monitoring system with predictive forecasting (ARIMA models)
+### 1. [Task Manager App](https://github.com/HersiMeriem/task-manager)  
+**Angular | Firebase**  
+Simple task management system with real-time updates  
 
-### 2. [E-Commerce Platform](https://github.com/HersiMeriem/ecommerce-app) 
-**Angular | Node.js | MongoDB**  
-Full-stack solution with JWT authentication and payment integration
+### 2. [Eco-Tourism Portal](https://github.com/HersiMeriem/wearegabes)  
+**Flutter | Figma**  
+Local tourism platform promoting Gabès’ cultural heritage  
 
-### 3. [Mobile Health Tracker](https://github.com/HersiMeriem/health-tracker) 
-**Flutter | Firebase | TensorFlow Lite**  
-AI-powered fitness app with workout recognition
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HersiMeriem&theme=radical)](https://git.io/streak-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HersiMeriem&layout=compact&theme=radical&hide=Jupyter%20Notebook)](https://github.com/HersiMeriem)
-
-</div>
+### 3. [Inventory Tracker](https://github.com/HersiMeriem/smartstock)  
+**Python | SQL**  
+Basic inventory management system with data visualization  
 
 ---
 
-## 🌟 **Professional DNA**
+## 📊 **GitHub Analytics**  
+<div align="center">  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HersiMeriem&theme=radical)](https://git.io/streak-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HersiMeriem&layout=compact&theme=radical)](https://github.com/HersiMeriem)  
+
+</div>  
+
+---
+
+## 🌟 **Growth Journey**  
 ```text
-Code Quality   ██████████░░ 90% 
-Problem Solving █████████░░░ 85%
-BI Development  ██████████░░ 92%
-Team Leadership ████████░░░░ 80%
-Continuous Learning ████████████ 100%
+Front-End Development  ██████████░░ 85%  
+Back-End Integration   ████████░░░░ 70%  
+Data Analysis          █████████░░░ 80%  
+Problem Solving        ████████░░░░ 75%  
+Continuous Learning    ████████████ 100%  
