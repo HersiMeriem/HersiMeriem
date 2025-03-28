@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Hersi Meriem**  
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Animated GIF" style="border-radius: 50%;">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTA0N2g0eXYxdWl4a2h3ZmVxOGNvbDdrYnN3NTA0a2dxOW51cnQyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200" alt="Animated GIF" style="border-radius: 50%;">
 
 ## **` Full-Stack Developer | Business Intelligence Student`**  
 
@@ -23,7 +23,8 @@ As a passionate **Full-Stack Developer** and a **Business Intelligence Student**
 ### **Full-Stack Development**  
 | Front-End              | Back-End               | Databases            |  
 |------------------------|------------------------|----------------------|  
-| ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase) |
+| ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3" alt="CSS" class="tech-badge">
+  | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase) |
 
 ### **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)  
