@@ -1,21 +1,19 @@
-# 👋 Hello, I'm **Hersi Meriem**  
-**`Full-Stack Developer | Business Intelligence Student`**  
+ # 👋 Hello, I'm **Hersi Meriem**  
+**` Full-Stack Developer | Business Intelligence Student`**  
 
 [![Visitors](https://komarev.com/ghpvc/?username=HersiMeriem&color=dc143c&label=PROFILE+VIEWS)](https://github.com/HersiMeriem)  
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2CA5E0?logo=google-chrome)](https://your-portfolio-link.com)  
-[![Blog](https://img.shields.io/badge/✍️_Blog-FF5722?logo=medium)](
-[https://your-blog-link.com](https://portfolio-hersi-meriem.netlify.app))  
+[![Blog](https://img.shields.io/badge/✍️_Blog-FF5722?logo=medium)](https://your-blog-link.com)  
 
 ---
 
 ## 🚀 **About Me**  
 As a beginner software developer and a student in IT management with a specialization in Business Intelligence, I design and develop dynamic web applications, from front-end user interfaces to back-end databases. My goal is to create seamless, efficient, and scalable solutions that enhance user experience and drive business success.  
 
-### **What I’m exploring now:**  
+**What I’m exploring now** :  
 - 🎯 Building responsive UIs with **Angular** and **Flutter**  
 - 🔍 Transforming raw data into insights with **Python** and **SQL**  
 - 🌱 Learning cloud fundamentals (**Firebase**)  
-- ☕ Experimenting with **JavaServer Pages (JSP)**  
 
 ---
 
@@ -24,7 +22,7 @@ As a beginner software developer and a student in IT management with a specializ
 ### **Full-Stack Development**  
 | Front-End              | Back-End               | Databases            |  
 |------------------------|------------------------|----------------------|  
-| ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase) ![JSP](https://img.shields.io/badge/-JSP-00796B?logo=java) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite) |  
+| ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite) |  
 
 ### **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)  
@@ -37,15 +35,15 @@ As a beginner software developer and a student in IT management with a specializ
 
 ### 1. [Task Manager App](https://github.com/HersiMeriem/task-manager)  
 **Angular | Firebase**  
-A simple task management system with real-time updates.  
+Simple task management system with real-time updates  
 
 ### 2. [Eco-Tourism Portal](https://github.com/HersiMeriem/wearegabes)  
 **Flutter | Figma**  
-A local tourism platform promoting Gabès’ cultural heritage.  
+Local tourism platform promoting Gabès’ cultural heritage  
 
 ### 3. [Inventory Tracker](https://github.com/HersiMeriem/smartstock)  
 **Python | SQL**  
-A basic inventory management system with data visualization.  
+Basic inventory management system with data visualization  
 
 ---
 
