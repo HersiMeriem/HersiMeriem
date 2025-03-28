@@ -31,21 +31,6 @@ As a beginner software developer and a student in IT management with a specializ
 
 ---
 
-## 🌱 **Featured Projects**  
-
-### 1. [Task Manager App](https://github.com/HersiMeriem/task-manager)  
-**Angular | Firebase**  
-Simple task management system with real-time updates  
-
-### 2. [Eco-Tourism Portal](https://github.com/HersiMeriem/wearegabes)  
-**Flutter | Figma**  
-Local tourism platform promoting Gabès’ cultural heritage  
-
-### 3. [Inventory Tracker](https://github.com/HersiMeriem/smartstock)  
-**Python | SQL**  
-Basic inventory management system with data visualization  
-
----
 
 ## 📊 **GitHub Analytics**  
 <div align="center">  
