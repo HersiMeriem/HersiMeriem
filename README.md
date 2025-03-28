@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/HersiMeriem.png" width="150" alt="Profile Picture" style="border-radius: 50%;">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" alt="Animated GIF" style="border-radius: 50%;">
   
   # 👋 Hello, I'm **Hersi Meriem**  
   **` Full-Stack Developer | Business Intelligence Student `**  
@@ -51,3 +51,4 @@ Back-End Integration   ████████░░░░ 70%
 Data Analysis          █████████░░░ 80%  
 Problem Solving        ████████░░░░ 75%  
 Continuous Learning    ████████████ 100%  
+```
