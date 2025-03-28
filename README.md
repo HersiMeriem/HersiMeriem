@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/4bWWFsFfJvSoM/giphy.gif" width="200" alt="Animated GIF" style="border-radius: 50%;">
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="200" alt="Animated GIF" style="border-radius: 50%;">
   
   # 👋 Hello, I'm **Hersi Meriem**  
   **` Full-Stack Developer | Business Intelligence Student `**  
