@@ -2,8 +2,7 @@
 **` Full-Stack Developer | Business Intelligence Student`**  
 
 [![Visitors](https://komarev.com/ghpvc/?username=HersiMeriem&color=dc143c&label=PROFILE+VIEWS)](https://github.com/HersiMeriem)  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2CA5E0?logo=google-chrome)](https://your-portfolio-link.com)  
-[![Blog](https://img.shields.io/badge/✍️_Blog-FF5722?logo=medium)](https://your-blog-link.com)  
+
 
 ---
 
@@ -31,21 +30,7 @@ As a beginner software developer and a student in IT management with a specializ
 
 ---
 
-## 🌱 **Featured Projects**  
 
-### 1. [Task Manager App](https://github.com/HersiMeriem/task-manager)  
-**Angular | Firebase**  
-Simple task management system with real-time updates  
-
-### 2. [Eco-Tourism Portal](https://github.com/HersiMeriem/wearegabes)  
-**Flutter | Figma**  
-Local tourism platform promoting Gabès’ cultural heritage  
-
-### 3. [Inventory Tracker](https://github.com/HersiMeriem/smartstock)  
-**Python | SQL**  
-Basic inventory management system with data visualization  
-
----
 
 ## 📊 **GitHub Analytics**  
 <div align="center">  
